@@ -1,8 +1,8 @@
 # Partygroup6
 
 ## Our Team:
-* Jackson - Team Leader, builder and coder.
-* Xander - Lead Builder
+* Jackson - Team Leader
+* Xander - 
 * 
 * 
 ### Our group name is PartyGroup6 and our robot's name is officially Partybot, but also named Jerry-Bob.
