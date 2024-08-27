@@ -3,7 +3,7 @@
 ## Our Team:
 * Jackson - Team Leader
 * Xander - 
-* 
+* Prston Miller - Driver 
 * 
 ### Our group name is PartyGroup6 and our robot's name is officially Partybot, but also named Jerry-Bob.
 
