@@ -5,7 +5,7 @@
 ## Our Team:
 * Jackson - Team Leader, Advisor, Programmer
 * Xander - Strategist, Mechanical Engineer
-* Preston - Driver, Safety Captain, 
+* Preston - Driver, Safety Captain, scouting lead
 * Name- Cad Designer, Electrical Engineer, Documentation Specialist
 * 
 #### Not Competition Minded so we don't need a Public Relations or a scouting lead.
