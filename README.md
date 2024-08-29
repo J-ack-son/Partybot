@@ -7,7 +7,8 @@
 * Xander - Strategist, Mechanical Engineer
 * Preston - Driver, Safety Captain, scouting lead
 * Landon- Cad Designer, Electrical Engineer, Documentation Specialist
-* 
+
+  
 #### Not Competition Minded so we don't need a Public Relations or a scouting lead.
 
 ### Our group name is PartyGroup6 and our robot's name is officially Partybot, but also Jerry-Bob.
