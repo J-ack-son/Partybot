@@ -20,3 +20,4 @@ It will be mobile and have a rectangular base.
 We are not Competition Minded so we don't need a Public Relations or a scouting lead.
 
 ##### Some sketches for our idea of a robot:
+![Robot Features drawing](https://github.com/J-ack-son/Partybot/blob/main/images/Robot%20features.jpg?raw=true)
