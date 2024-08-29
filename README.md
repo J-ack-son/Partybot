@@ -22,4 +22,4 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ##### Some sketches for our idea of a robot:
 ![Robot Features drawing](https://github.com/J-ack-son/Partybot/blob/main/images/Robot%20features.jpg?raw=true)
 ![Robot Sketches drawing](https://github.com/J-ack-son/Partybot/blob/main/images/Robot%20sketches.jpg?raw=true)
-![Robot Cad]([blob:chrome-untrusted://media-app/e3e98e33-2556-4581-a023-7275c7b18899](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-08-29%2012.28.11%20PM.png?raw=true))
+![Robot Cad]((https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-08-29%2012.28.11%20PM.png?raw=true))
