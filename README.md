@@ -14,13 +14,23 @@ It will be mobile and have a rectangular base.
 ## Our Team:
 ### Jackson:  Team Leader, Advisor, Programmer
 * Oversees the entire team and ensures that all tasks are on track.
-* 
-### Xander: Strategist, Mechanical Engineer
-*
-### Preston: Driver, Safety Captain, scouting lead
-*
+* Writes and tests the code that controls the robot.
+* Provides guidance and expertise in engineering, programming, and project management.
+### Xander: Strategist, Mechanical Engineer, aided with CAD design
+* Designs and builds the robot’s physical structure.
+* Collaborates with the CAD designer to turn designs into reality.
+* Creates detailed computer-aided design (CAD) models of the robot.
+* Develops the overall competition strategy.(in this case stategy for building the robot to execute the tasks provided.
+### Preston: Driver, Safety Captain, aided with mechanical
+* Operates the robot during competitions. (Or in our case, just for testing)
+* Ensures that all team members follow safety protocols.
+* Works on the drivetrain, chassis, and any mechanical systems (e.g., arms, lifts, grippers).
+* Ensures that the robot meets size, weight, and functional requirements.
 ### Landon: Cad Designer, Electrical Engineer, Documentation Specialist
-*
+* Creates detailed computer-aided design (CAD) models of the robot.
+* Designs and assembles the robot’s electrical systems.
+* Troubleshoots electrical issues during testing.
+* Keeps detailed records of the design process, decisions, and progress.
   
 We are not Competition Minded so we don't need a Public Relations or a scouting lead.
 
