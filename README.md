@@ -12,13 +12,14 @@ It will be mobile and have a rectangular base.
 * Retangular structure to hold a domed-shaped bowl
 
 ## Our Team:
-### Jackson  Team Leader, Advisor, Programmer
+### Jackson:  Team Leader, Advisor, Programmer
+* Oversees the entire team and ensures that all tasks are on track.
 * 
-### Xander Strategist, Mechanical Engineer
+### Xander: Strategist, Mechanical Engineer
 *
-### Preston Driver, Safety Captain, scouting lead
+### Preston: Driver, Safety Captain, scouting lead
 *
-### Landon Cad Designer, Electrical Engineer, Documentation Specialist
+### Landon: Cad Designer, Electrical Engineer, Documentation Specialist
 *
   
 We are not Competition Minded so we don't need a Public Relations or a scouting lead.
