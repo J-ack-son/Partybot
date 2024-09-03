@@ -12,10 +12,12 @@ It will be mobile and have a rectangular base.
 * Retangular structure to hold a domed-shaped bowl
 
 ## Our Team:
-### Jackson:  Team Leader, Advisor, Programmer
+### Jackson:  Team Leader, Advisor, Programmer, aids with everything else too
 * Oversees the entire team and ensures that all tasks are on track.
 * Writes and tests the code that controls the robot.
 * Provides guidance and expertise in engineering, programming, and project management.
+* Designs and builds the robot’s physical structure.
+* Manages wiring, sensors, and power distribution.
 ### Xander: Strategist, Mechanical Engineer, aided with CAD design
 * Designs and builds the robot’s physical structure.
 * Collaborates with the CAD designer to turn designs into reality.
