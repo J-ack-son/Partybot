@@ -42,4 +42,4 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Robot Cad](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-08-29%2012.28.11%20PM.png?raw=true)
 ![Robot Sketches](https://github.com/J-ack-son/Partybot/blob/main/images/sketch.jpg?raw=true)
 ![Robot Chassis #1](https://github.com/J-ack-son/Partybot/blob/main/images/Cassis%20%231.jpg?raw=true)
-![Robot Chassis #2]()
+![Robot Chassis #2](https://github.com/J-ack-son/Partybot/blob/main/images/Chassis%20%232.jpg?raw=true)
