@@ -45,7 +45,7 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Robot Chassis #2](https://github.com/J-ack-son/Partybot/blob/main/images/Chassis%20%232.jpg?raw=true)
 ![Robot Code](https://github.com/J-ack-son/Partybot/blob/main/images/Code.png?raw=true)
 ![Robot Controller](https://github.com/J-ack-son/Partybot/blob/main/images/Controller.png?raw=true)
-![Robot fighting 1]()
+![Robot fighting 1](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6080.PNG?raw=true)
 ![Robot fighting 2]()
 
 Link to Google drive with videos of Summo Competition: https://drive.google.com/drive/folders/14TyCDibYdb3AmF66-OgeFTmXOYTG_XlM?usp=drive_link 
