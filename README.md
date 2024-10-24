@@ -37,22 +37,22 @@ It will be mobile and have a rectangular base.
 We are not Competition Minded so we don't need a Public Relations or a scouting lead.
 
 ##### Some sketches for our idea of a robot:
-###### Sketches:
+## Sketches:
 ![Robot Features drawing](https://github.com/J-ack-son/Partybot/blob/main/images/Robot%20features.jpg?raw=true)
 ![Robot Sketches drawing](https://github.com/J-ack-son/Partybot/blob/main/images/Robot%20sketches.jpg?raw=true)
-###### CAD:
+## CAD:
 ![Robot Cad](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-08-29%2012.28.11%20PM.png?raw=true)
 ![Robot Cad](https://github.com/J-ack-son/Partybot/blob/main/images/sketch.jpg?raw=true)
-###### Chassis:
+## Chassis:
 ![Robot Chassis #1](https://github.com/J-ack-son/Partybot/blob/main/images/Cassis%20%231.jpg?raw=true)
 ![Robot Chassis #2](https://github.com/J-ack-son/Partybot/blob/main/images/Chassis%20%232.jpg?raw=true)
-###### Code:
+## Code:
 ![Robot Code](https://github.com/J-ack-son/Partybot/blob/main/images/Code.png?raw=true)
 ![Robot Controller](https://github.com/J-ack-son/Partybot/blob/main/images/Controller.png?raw=true)
-###### Fighting:
+## Summo Fighting:
 ![Robot fighting 1](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6080.PNG?raw=true)
 ![Robot fighting 2](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6081.PNG?raw=true)
-###### Object Manipulators:
+## Object Manipulators:
 ![DonutGrabber1](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-10-24%2012.23.01%20PM.png?raw=true)
 ![DonutGrabber2](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-10-24%2012.23.17%20PM.png?raw=true)
 ![Claw](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-10-24%2012.22.52%20PM.png?raw=true)
