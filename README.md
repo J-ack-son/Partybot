@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/14bfb5af-f4f7-4298-bdeb-2c7f251cc36b)# Our Team: Partygroup6
+# Our Team: Partygroup6
 
 ### Our robot's name is Partybot. He likes to party.
 
