@@ -49,6 +49,6 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Robot fighting 2](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6081.PNG?raw=true)
 ![DonutGrabber1]()
 ![DonutGrabber2]()
-![Claw]()
+![Claw](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-10-24%2012.22.52%20PM.png?raw=true)
 
 Link to Google drive with videos of Summo Competition: https://drive.google.com/drive/folders/14TyCDibYdb3AmF66-OgeFTmXOYTG_XlM?usp=drive_link 
