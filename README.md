@@ -47,7 +47,7 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Robot Controller](https://github.com/J-ack-son/Partybot/blob/main/images/Controller.png?raw=true)
 ![Robot fighting 1](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6080.PNG?raw=true)
 ![Robot fighting 2](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6081.PNG?raw=true)
-![DonutGrabber1](https://github.com/J-ack-son/Partybot/blob/main/images/ObjectManipulator1?raw=true)
+![DonutGrabber1]()
 ![DonutGrabber2]()
 ![Claw]()
 
