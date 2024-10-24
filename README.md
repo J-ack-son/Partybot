@@ -7,9 +7,9 @@ It will be mobile and have a rectangular base.
 
 ###### Summary of the features of the robot:
 * Claw to grab cans
-* Elevator to store cans
+* Claw on an Elevator to keep cans safe, and deliver to the person
 * Storage for Speaker
-* Retangular structure to hold a domed-shaped bowl
+* Retangular structure to hold a domed-shaped bowl or bag of chips
 
 ## Our Team:
 ### Jackson:  Team Leader, Advisor, Programmer, aids with everything else too
@@ -47,5 +47,8 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Robot Controller](https://github.com/J-ack-son/Partybot/blob/main/images/Controller.png?raw=true)
 ![Robot fighting 1](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6080.PNG?raw=true)
 ![Robot fighting 2](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6081.PNG?raw=true)
+![DonutGrabber1]()
+![DonutGrabber2]()
+![Claw]()
 
 Link to Google drive with videos of Summo Competition: https://drive.google.com/drive/folders/14TyCDibYdb3AmF66-OgeFTmXOYTG_XlM?usp=drive_link 
