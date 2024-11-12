@@ -48,6 +48,7 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Robot Chassis #2](https://github.com/J-ack-son/Partybot/blob/main/images/Chassis%20%232.jpg?raw=true)
 ## Code:
 ![Robot Controller](https://github.com/J-ack-son/Partybot/blob/main/images/Screenshot%202024-10-25%2012.12.12%20PM.png?raw=true)
+![Robot Controller](https://github.com/J-ack-son/Partybot/blob/main/images/codeRecent.png?raw=true)
 ## Summo Fighting:
 ![Robot fighting 1](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6080.PNG?raw=true)
 ![Robot fighting 2](https://github.com/J-ack-son/Partybot/blob/main/images/IMG_6081.PNG?raw=true)
