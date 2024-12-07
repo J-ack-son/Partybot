@@ -61,4 +61,5 @@ We are not Competition Minded so we don't need a Public Relations or a scouting 
 ![Back Bumper2](https://github.com/J-ack-son/Partybot/blob/main/images/BackSensor2.png?raw=true)
 ![Side Bumper](https://github.com/J-ack-son/Partybot/blob/main/images/SideSensor.png?raw=true)
 
-Link to Google drive with the progression of our bot and the various competitions along the way: https://drive.google.com/drive/folders/14TyCDibYdb3AmF66-OgeFTmXOYTG_XlM?usp=drive_link 
+Link to Google drive with the progression of our bot and the various competitions along the way:
+https://drive.google.com/drive/folders/0ABdl0gsGUi3VUk9PVA
